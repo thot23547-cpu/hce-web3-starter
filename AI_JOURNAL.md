@@ -20,4 +20,5 @@
 git add .
 git commit -m "lab-04: nhan dien hop dong co rui ro"
 git push
+0xc685890ad5d5ecac892ca55fe3399afd680e63c72ef430b7e953209d9eb29916
 
