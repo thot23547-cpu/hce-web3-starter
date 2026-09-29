@@ -17,4 +17,7 @@
 ## Lab 3 - Đọc giao dịch và hợp đồng trên Etherscan
 - **Nội dung thực hiện:** Tra cứu và mổ xẻ chi tiết các thông số của giao dịch cá nhân trên mạng Sepolia Etherscan (TxHash `0xf9b7a42e55997431f30ac56ae8dbb10af9fb82fb69ef2ecd740fd1f0cefc0e55`), đồng thời tìm hiểu các tab Read/Write contract trên hợp đồng thông minh thực tế (USDT).
 - **Hỗ trợ từ AI:** Nhờ AI hỗ trợ cấu trúc tệp báo cáo `forensics.md` và giải thích ý nghĩa các trường thông tin on-chain.
+git add .
+git commit -m "lab-04: nhan dien hop dong co rui ro"
+git push
 
